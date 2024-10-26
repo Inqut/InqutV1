@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.action-bar {
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.tab-view-item {
+  color: #333;
+}
+
+.active-tab {
+  color: #6366f1;
+}
